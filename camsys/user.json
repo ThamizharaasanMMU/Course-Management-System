@@ -1,0 +1,51 @@
+{
+    "students_det": [
+        {
+            "name": "MEGAT",
+            "age": "25",
+            "ID": "25937",
+            "password": "fkfbkd",
+            "courses": []
+        },
+        {
+            "name": "BAN KAR WENG",
+            "age": "33",
+            "ID": "29680",
+            "password": "william33",
+            "courses": []
+        },
+        {
+            "name": "SHARAF",
+            "age": "45",
+            "ID": "20883",
+            "password": "qwerty",
+            "courses": [
+                600001,
+                600003,
+                600004
+            ]
+        },
+        {
+            "name": "ABDULLAH",
+            "age": "20",
+            "ID": "27749",
+            "password": "rm9DMKl3",
+            "courses": []
+        },
+        {
+            "name": "MAJEED",
+            "age": "24",
+            "ID": "25734",
+            "password": "F3kW2YJW",
+            "courses": []
+        }
+    ],
+    "admin_det": [
+        {
+            "name": "THAMIZHARAASAN",
+            "age": 19,
+            "ID": "20129",
+            "password": "thamizh020626"
+        }
+    ]
+}

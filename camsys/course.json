@@ -1,0 +1,54 @@
+{
+    "course_det": [
+        {
+            "CourseID": 600000,
+            "LecturerName": "SITI KHADIJAH",
+            "CourseName": "MINI IT PROJECT",
+            "Students": [],
+            "ClassCapacity": 25,
+            "Day": "TUESDAY",
+            "CourseStartDate": null,
+            "CourseEndDate": null
+        },
+        {
+            "CourseID": 600001,
+            "LecturerName": "SHAHBE",
+            "CourseName": "PYTHON FOR BEGINNERS",
+            "Students": [],
+            "ClassCapacity": 27,
+            "Day": "TUESDAY",
+            "CourseStartDate": "04-09-2023",
+            "CourseEndDate": "08-10-2023"
+        },
+        {
+            "CourseID": 600002,
+            "LecturerName": "NG HU",
+            "CourseName": "OPERATING SYSTEM",
+            "Students": [],
+            "ClassCapacity": 28,
+            "Day": "TUESDAY",
+            "CourseStartDate": "15-09-2023",
+            "CourseEndDate": "13-12-2023"
+        },
+        {
+            "CourseID": 600003,
+            "LecturerName": "NOOR WAHIDA",
+            "CourseName": "INTRO TO COMPUTING TECH",
+            "Students": [],
+            "ClassCapacity": 27,
+            "Day": "MONDAY",
+            "CourseStartDate": "18-09-2023",
+            "CourseEndDate": "31-10-2023"
+        },
+        {
+            "CourseID": 600004,
+            "LecturerName": "MORTEZA",
+            "CourseName": "CYBERSECURITY",
+            "Students": [],
+            "ClassCapacity": "25",
+            "Day": "TUESDAY",
+            "CourseStartDate": "02-10-2024",
+            "CourseEndDate": "24-10-2024"
+        }
+    ]
+}

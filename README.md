@@ -6,6 +6,7 @@ The Course Management System is designed to facilitate the enrollment and manage
 ## Platform
 - **Language**: Python
 - **Framework**: Tkinter
+- **Database** : JSON File
 
 ## Functional Requirements
 
@@ -23,7 +24,7 @@ The Course Management System is designed to facilitate the enrollment and manage
 
 ## Login Page
 
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 ## Admin Page
 
